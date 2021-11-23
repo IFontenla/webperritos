@@ -25,12 +25,17 @@ Somos una *__asociación__* amante de los animales. Fuck ~maltrato~, fuck sapos.
 
 ## El perro más bonito del mundo
 
-![Perrito bonito](img1)
+![Perrito bonito][img1]
 
-[img1]: perronaruto.jpg
+[img1]:perronaruto.jpg
 
 | edad | pequeño | mediano | grande |
 |-----:|:-------:|:-------:|:------:|
 | 5    | 36      | 37      | 40     |
 | 10   | 56      | 60      | 66     |
 | 15   | 76      | 86      | 93     |
+
+------
+
+![banner](banner.svg)
+
