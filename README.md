@@ -27,7 +27,7 @@ Somos una *__asociación__* amante de los animales. Fuck ~maltrato~, fuck sapos.
 
 ![Perrito bonito](img1)
 
-[img1]: Murió-el-perrito-más-famosos-de-internet-2.jpg
+[img1]: perronaruto.jpg
 
 | edad | pequeño | mediano | grande |
 |-----:|:-------:|:-------:|:------:|
